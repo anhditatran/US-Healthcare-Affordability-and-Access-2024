@@ -3,6 +3,10 @@
 
 This project analyzes how **insurance status, income, and geography** shape healthcare affordability and access in the United States. Using large-scale public health data and interactive Tableau dashboards, the analysis evaluates whether having health insurance actually reduces cost barriers—and which populations remain most vulnerable.
 
+**Project file:** https://drive.google.com/file/d/1k3704bOCJ-_zArrUY26aggNOooTczrbl/view?usp=sharing
+
+**Dataset Cleaned:** https://drive.google.com/drive/folders/1cYAd02uuuMFtGSr27_90uIc0n9D-G-mF?usp=sharing
+
 ---
 
 ## Key Questions
